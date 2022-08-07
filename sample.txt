@@ -1,2 +1,3 @@
 Sample file
 This is for comparision
+Changes in sample after stashing 

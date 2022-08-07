@@ -1,2 +1,3 @@
 Sample2 file for new
 This is for comparision2[2~[2~
+Changes in sample2 after stashing 
